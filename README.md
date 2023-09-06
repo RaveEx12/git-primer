@@ -13,3 +13,5 @@ This repository was made for tag along practical with the facilator
 - Thato
 - Matidza
 - Tolulope
+- Toka
+- Others
